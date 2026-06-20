@@ -44,7 +44,7 @@ Zillow publishes its Home Value Index (ZHVI) in wide form — one row per city, 
 | File | Description |
 |---|---|
 | `zillow-home-analysis.ipynb` | Full notebook: data prep, reshaping, resampling, plotting, and analysis |
-| `zillow-home-analysis.csv` | Raw Zillow ZHVI dataset (wide-form) |
+| `zillow-home-data.txt` | Raw Zillow ZHVI dataset (wide-form) |
 | `README.md` | Project overview and documentation (this file) |
  
 ## Notes
