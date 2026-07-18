@@ -46,11 +46,9 @@ This is the same basic approach used by real estate analysts, economists, and in
 ## 📁 Folder structure
 
 ```
-final-belt-exam/                     (suggested rename → oregon-home-value-forecast/)
+home-price-forecasting-project/                     
 ├── README.md                        You are here
 ├── oregon_home_value_forecast.ipynb The main notebook — all the analysis and forecasting steps
 ├── zillow-home-values.csv           The raw dataset from Zillow (all U.S. neighborhoods)
 └── data-for-tableau.csv             A filtered, cleaned-up version of the data for use in Tableau
 ```
-
-> **Note:** We'd like to rename this folder to `oregon-home-value-forecast` for clarity, but it's currently locked by an open program (likely the notebook being open in the editor). Close the notebook and any running kernel, then this folder can be renamed.
