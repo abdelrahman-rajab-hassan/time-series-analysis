@@ -48,7 +48,7 @@ This is the same basic approach used by real estate analysts, economists, and in
 ```
 home-price-forecasting-project/                     
 ├── README.md                        You are here
-├── oregon_home_value_forecast.ipynb The main notebook — all the analysis and forecasting steps
+├── oregon-home-value-forecast.ipynb.ipynb The main notebook — all the analysis and forecasting steps
 ├── zillow-home-values.csv           The raw dataset from Zillow (all U.S. neighborhoods)
 └── data-for-tableau.csv             A filtered, cleaned-up version of the data for use in Tableau
 ```
